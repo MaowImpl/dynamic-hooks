@@ -20,6 +20,7 @@
   "files": [
     "lib/"
   ],
+  "repository": "https://github.com/MaowImpl/dynamic-hooks",
   "devDependencies": {
     "@types/node": "^14.14.20",
     "typescript": "^4.1.3"
